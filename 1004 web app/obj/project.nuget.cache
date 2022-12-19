@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wL4vub3YTdd0dN5FgC3P5yBHjRafp5LQGR6I90AIQg2j6J7KOtdo8X6Fh1Fdy65WoILIzZAMQj+OuF4X8nrpOQ==",
+  "success": true,
+  "projectFilePath": "D:\\Computer Science\\COMP 1004\\Cyper\\1004 web app\\1004 web app.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Joshua Mae\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

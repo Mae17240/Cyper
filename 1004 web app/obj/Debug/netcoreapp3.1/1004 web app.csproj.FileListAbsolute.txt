@@ -1,0 +1,38 @@
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.exe
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.deps.json
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.runtimeconfig.json
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.runtimeconfig.dev.json
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.dll
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.pdb
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.Views.dll
+D:\Computer Science\COMP 1004\Cyper\1004 web app\bin\Debug\netcoreapp3.1\1004 web app.Views.pdb
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.csproj.AssemblyReference.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.AssemblyInfoInputs.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.AssemblyInfo.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.csproj.CoreCompileInputs.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.MvcApplicationPartsAssemblyInfo.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.RazorAssemblyInfo.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.RazorAssemblyInfo.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\staticwebassets\1004 web app.StaticWebAssets.Manifest.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\staticwebassets\1004 web app.StaticWebAssets.xml
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\scopedcss\bundle\1004 web app.styles.css
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.TagHelpers.input.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.TagHelpers.output.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.RazorCoreGenerate.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.RazorTargetAssemblyInfo.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.RazorTargetAssemblyInfo.cs
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.Views.pdb
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.dll
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.pdb
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.genruntimeconfig.cache
+D:\Computer Science\COMP 1004\Cyper\1004 web app\obj\Debug\netcoreapp3.1\1004 web app.csproj.CopyComplete

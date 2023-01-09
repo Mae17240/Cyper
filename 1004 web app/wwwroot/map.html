@@ -15,12 +15,20 @@
 </head>
 
 
-<body>
+<body style="background-color: antiquewhite">
+    <div>
+        <a href="index.html">home</a>
+    </div>
+
+    <div>
+        <h1>Map</h1>
+    </div>
 
     <div id="map">
-        <h1>Map</h1>
-        <h2>creating a map with working points </h2>
+
     </div>
+
+
 
 
 </body>
@@ -30,16 +38,37 @@
 
 <style>
     #map {
-        height: 180px;
+        height: 500px;
+        width: 500px;
     }
 </style>
 
 
 <script>
-    var map = L.map('map').setView([51.505, -0.09], 13);
+    ///creating the map on the page setting the width and height 
+    var map = L.map('map').setView([50.3755, -4.1427], 13); /// the geograpical coords for plymouth 
+
 
     L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
         maxZoom: 19,
         attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
+    }).addTo(map);
+
+
+    ///Marker to pin point areas 
+    var marker = L.marker([50.3656, -4.1423]).addTo(map);
+
+    var popup = L.popup()
+        .setLatLng([50.3656, -4.1423])
+        .setContent("Plymouth Hoe")
+        .openOn(map);
+
+
+    ///Circle for general areas , we can set colours and raduis 
+    var circle = L.circle([51.508, -0.11], {
+        color: 'blue',
+        fillColor: '#f03',
+        fillOpacity: 0.5,
+        radius: 500
     }).addTo(map);
 </script>
